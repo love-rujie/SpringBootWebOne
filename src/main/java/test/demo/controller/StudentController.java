@@ -1,5 +1,6 @@
 package test.demo.controller;
 
+import org.springframework.web.bind.annotation.ResponseBody;
 import test.demo.student.pojo.Student;
 import test.demo.student.serviceImpl.StudentServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
